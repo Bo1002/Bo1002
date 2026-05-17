@@ -14,7 +14,7 @@
  
 🏗️ Following **CMSIS** standard and **AUTOSAR**-inspired layered architecture
  
-📅 Date of Birth: Feb 10th, 2003 &nbsp;|&nbsp;  Citizenship: Vietnamese
+📅 Date of Birth: Feb 10th, 2003 &nbsp;|&nbsp; 🇻🇳 Citizenship: Vietnamese
  
 📞 (+84) 929 094 463 &nbsp;|&nbsp; 📧 nguyendinhminhvuong1002@gmail.com
  
@@ -54,7 +54,6 @@
  
 ![S32DS](https://img.shields.io/badge/S32_Design_Studio_3.6-FF6600?style=for-the-badge)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![LabVIEW](https://img.shields.io/badge/LabVIEW-FFDB00?style=for-the-badge&logo=labview&logoColor=black)
  
 ---
  
@@ -90,10 +89,10 @@
 ## 📊 GitHub Stats
  
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Bo1002&show_icons=true&theme=tokyonight&hide_border=true" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bo1002&layout=compact&theme=tokyonight&hide_border=true" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bo1002&theme=tokyonight&hide_border=true" />
-</div>
+<br/><br/>
+ 
+
 ---
  
 ## 📬 Contact
