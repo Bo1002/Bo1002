@@ -14,7 +14,7 @@
  
 🏗️ Following **CMSIS** standard and **AUTOSAR**-inspired layered architecture
  
-📅 Date of Birth: Feb 10th, 2003 &nbsp;|&nbsp; 🇻🇳 Citizenship: Vietnamese
+📅 Date of Birth: Feb 10th, 2003 &nbsp;|&nbsp; Citizenship: Vietnamese
  
 📞 (+84) 929 094 463 &nbsp;|&nbsp; 📧 nguyendinhminhvuong1002@gmail.com
  
